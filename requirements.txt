@@ -9,3 +9,4 @@ chromadb
 sentence-transformers
 pymysql
 SQLAlchemy
+pysqlite3-binary
