@@ -1,0 +1,11 @@
+streamlit
+langchain
+langchain-groq
+langchain-community
+langchain-core
+langchain-classic
+langchain-huggingface
+chromadb
+sentence-transformers
+pymysql
+SQLAlchemy
